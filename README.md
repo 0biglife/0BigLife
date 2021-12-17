@@ -2,8 +2,9 @@
 
 - 🔭 I'm currently working on ConnectyM
 - 🌱 I'm learning  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a> 
+  <br> <img src="https://img.shields.io/badge/Typescript-#3178C6?style=flat-square&logo=typescript&logoColor=white"/></a> 
   <br>
-- 📫 Connact me : 0biglife@gmail.com
+- 📫 Connact me : 0biglife@gmail.com 
 
 <div>
   <a href="https://github.com/0biglife">
