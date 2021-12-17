@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently working on ConnectyM
 - 🌱 I'm learning
-- 📫 Connact me : [Gmail]0biglife@gmail.com
+- 📫 Connact me : 0biglife@gmail.com
 
 <div>
   <a href="https://github.com/0biglife">
