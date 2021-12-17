@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/></a>
   <br>
-- 📫 Connact me : 0biglife@gmail.com 
+- 📫 Contact me : 0biglife@gmail.com 
 
 <div>
   <a href="https://github.com/0biglife">
