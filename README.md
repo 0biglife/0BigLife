@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=MinseokKim&fontSize=70&animation=twinkling)
 
 - 🔭 I'm currently working on ConnectyM
-- 🌱 I'm learning  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a> 
-  <br> <img src="https://img.shields.io/badge/Typescript-#3178C6?style=flat-square&logo=typescript&logoColor=white"/></a> 
+- 🌱 I'm learning .. <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a> 
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a> 
   <br>
 - 📫 Connact me : 0biglife@gmail.com 
 
