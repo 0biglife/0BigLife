@@ -52,9 +52,9 @@
 
 ### GitHub Stats 📈
 <p align="center">
-<a href="https://github.com/jeffreyc86">
- <img src="https://github-readme-stats.vercel.app/api?username=jeffreyc86&show_icons=true&hide=stars&hide_border=true" alt="Jeffrey's GitHub Stats" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffreyc86&layout=compact&hide_border=true" alt="Jeffrey's Language Stats" />
+<a href="https://github.com/0biglife">
+ <img src="https://github-readme-stats.vercel.app/api?username=0biglife&show_icons=true&hide=stars&hide_border=true" alt="0biglife's GitHub Stats" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0biglife&layout=compact&hide_border=true" alt="0biglife's Language Stats" />
 </a>
 </p>
 
