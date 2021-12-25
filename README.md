@@ -14,3 +14,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0biglife&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0biglife&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0biglife&count_bg=%2379C83D&title_bg=%23555555&icon=freecodecamp.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
