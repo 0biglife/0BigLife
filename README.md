@@ -1,19 +1,15 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=MinseokKim&fontSize=70&animation=twinkling)
 
-- 🌱 I'm learning .. <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a> 
-  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a> 
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a> 
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/></a>
-  <br>
-- 💻 Study BLog : https://0biglife.tistory.com/
-- 📫 Contact me : 0biglife@gmail.com 
+### 안녕하세요, 언젠가 리더가 되고 싶은 개발자 김민석입니다. 반갑습니다.
+
+그 언젠가는 향후 2년 안으로 목표를 잡고 있고요.
+
+현재는 커리어를 멈추고 회사를 나와서 여태 달려온 길을 정돈하는 시간을 가지고 있습니다.
+
+먼저 기술 블로그를 재배포하는 것을 시작으로 여러 작업들과 면접을 보러 다니는 중입니다.
+
+즐겁고 후회없는 삶을 살아갑시다.
 
 
-<div>
-  <a href="https://github.com/0biglife">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0biglife&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0biglife&layout=compact&langs_count=7&theme=dark"/>
-</div>
+-
 
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0biglife&count_bg=%2379C83D&title_bg=%23555555&icon=freecodecamp.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+감사합니다.
