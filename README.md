@@ -1,8 +1,10 @@
 공사중입니다.
 
-[진행중]
+#### <i>진행중</i>
 - wetopia TDD, BFF, GQL, RQ 등 테스트 앱 배포
 - CI/CD yaml 생성앱 개발(cli application)
+
+#### <i>진행예정</i>
 - 3월 중순 ~ : 기술 블로그 Next.js -> Gatsby 마이그레이션
 
 
