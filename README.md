@@ -1,7 +1,7 @@
 공사중입니다.
 
 #### <i>진행중</i>
-- 3월 중순 ~ : 기술 블로그 Next.js 15.2 SSG 개발 및 배포 완성
+- 기술 블로그 Next.js 15.2 SSG 개발 및 배포 완성
 - CI/CD yaml 생성앱 개발(cli application)
 
 #### <i>진행예정</i>
