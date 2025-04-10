@@ -1,11 +1,9 @@
-공사중입니다.
 
-#### <i>진행중</i>
-- 기술 블로그 Next.js 15.2 SSG 개발 및 배포 완성
-- CI/CD yaml 생성앱 개발(cli application)
+안녕하세요. 프론트엔드 개발자 김민석입니다.
 
-#### <i>진행예정</i>
-- wetopia TDD, BFF, GQL, RQ 등 테스트 앱 배포
+커리어맵을 함께할 기술 블로그를 운영 중에 있으며, 매주 최소 1회 업데이트를 실행합니다.
 
+미국 주식, 부동산에 관심이 많아 관련 서비스를 개발, 배포 중에 있습니다.
 
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0biglife&count_bg=%2379C83D&title_bg=%23555555&icon=freecodecamp.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+블로그 : https://0biglife.com/ 
+
